@@ -1,17 +1,27 @@
-## ByteHarbor
+# ByteHarbor
 
 Security research, open-source tooling, and practical security engineering.
 
-Projects
-• OpenVoice — ...
-• More projects coming soon.
+## Focus
 
-Focus
-• Security tooling
-• Digital forensics
-• Automation
-• Linux
-• Open-source development
+- Security tooling
+- Digital forensics
+- Automation
+- Linux
+- Open-source development
+
+## Projects
+
+- **OpenVoice** — Voice-focused open-source project.
+- **More projects** — In development.
+
+## Approach
+
+Build practical tools, document the process, and learn by doing.
+
+---
+
+> Independent security research & open-source development.
 
 <!--
 **ByteHarborHub/ByteHarborHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
