@@ -1,4 +1,17 @@
-## Hi there 👋
+## ByteHarbor
+
+Security research, open-source tooling, and practical security engineering.
+
+Projects
+• OpenVoice — ...
+• More projects coming soon.
+
+Focus
+• Security tooling
+• Digital forensics
+• Automation
+• Linux
+• Open-source development
 
 <!--
 **ByteHarborHub/ByteHarborHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
